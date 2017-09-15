@@ -1,0 +1,16 @@
+{
+  "en": {
+    "navbar_home": "Home",
+    "navbar_services": "Services",
+    "navbar_projects": "Projects",
+    "navbar_contact": "Contact",
+    "navbar_jjpage": "Google's Page"
+  },
+  "br": {
+    "navbar_home": "Home",
+    "navbar_services": "Serviços",
+    "navbar_projects": "Projetos",
+    "navbar_contact": "Contato",
+    "navbar_jjpage": "Página do Google"
+  }
+}
